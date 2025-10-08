@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/DCF-2/DCF-2/blob/main/WhatsApp%20Image%202025-10-08%20at%2013.59.12.jpeg?raw=true" 
-       width="200" 
-       height="200" 
+  <img src="https://github.com/DCF-2/DCF-2/blob/main/Design%20sem%20nome%20(1)-modified.png" 
+       width="250px" 
+       height="250px" 
        style="border-radius: 50%; object-fit: cover; border: 3px solid #00BFFF;">
   
   <br><br>
