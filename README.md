@@ -1,24 +1,33 @@
 ## Hi there 👋
 
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Davi Freitas;Desenvolvedor+Java Developer;Explorando+novas+tecnologias" alt="Typing SVG"></a> -->
+<div align="center">
+  <img src="https://github.com/DCF-2/DCF-2/blob/main/WhatsApp%20Image%202025-10-08%20at%2013.59.12.jpeg?raw=true" 
+       width="200" 
+       height="200" 
+       style="border-radius: 50%; object-fit: cover; border: 3px solid #00BFFF;">
+  
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Davi+Freitas;Java+Developer;Exploring+new+technologies" alt="Typing SVG">
+  </a>
   
   <p align="center">
-    Um apaixonado por tecnologia e programação, transformando ideias em código.
+    A passionate tech and programming enthusiast, turning ideas into code.
   </p>
-</div> 
+</div>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-- 🔭 Atualmente trabalhando em... **[Lab. Dexter - GPSERS]**
-- 🌱 Estou focado(a) em aprender mais sobre... **Kotlin, java, javaswing, github**
-- 💬 Fale comigo sobre... **JavaScript, Python, games, design, java, c, c++, algoritimos, desenvolvimento web**
-- 📫 Como me encontrar: **[Meu Whats](https://wa.me/5581988577874)**
-- 😄 Pronomes: **Ele/Dele** ou **Ela/Dela**
+- 🔭 I’m currently working at... **Lab. Dexter - GPSERS**
+- 🌱 I’m currently learning... **Kotlin, Java, JavaSwing, and GitHub**
+- 💬 Ask me about... **Java, C, C++, Python, JavaScript, algorithms, and web development**
+- 📫 How to reach me: **[My WhatsApp](https://wa.me/5581988577874)**
+- 😄 Pronouns: **He/Him**
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 🛠️ My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,36 +45,35 @@
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/eu_davi.freitas/" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-freitas-101259303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/davi-freitas-101259303/" target="_blank">
+  <a href="https://www.instagram.com/eu_davi.freitas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:davicfreitas1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://[SEU-SITE-OU-PORTFOLIO].com" target="_blank">
+  <a href="https://[YOUR-PORTFOLIO-SITE].com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCF-2&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 <table border="2" width="100%">
   <tr align="center">
@@ -74,14 +82,14 @@
         <b>GSMART</b>
       </a>
       <br><br>
-      <p>GSmart é uma aplicação de desktop em Java que extrai dados de fontes de IoT, como o ThingsBoard e bancos de dados. A aplicação processa essas informações para gerar       análises e, em seguida, envia os resultados para plataformas de Business Intelligence como o Power BI.</p>
+      <p>GSmart is a Java desktop application that extracts data from IoT sources like ThingsBoard and databases. The application processes this information to generate analytics and then sends the results to Business Intelligence platforms like Power BI.</p>
     </td>
     <td>
       <a href="https://github.com/DCF-2/Transcrito">
         <b>Transcrito</b>
       </a>
       <br><br>
-      <p>Este projeto usa Python, Streamlit e a API da Deepgram para transcrever arquivos de áudio em português com alta precisão.</p>
+      <p>This project uses Python, Streamlit, and the Deepgram API to accurately transcribe audio files in Portuguese.</p>
     </td>
   </tr>
 </table>
