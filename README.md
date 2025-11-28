@@ -58,8 +58,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DCF-2&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-main-dcf-2s-projects.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-main-dcf-2s-projects.vercel.app/api/top-langs?username=DCF-2&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ---
