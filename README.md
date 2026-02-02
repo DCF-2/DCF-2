@@ -72,7 +72,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula" alt="Davi Freitas Stats" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCF-2&layout=compact&theme=dracula" alt="Davi Freitas Languages" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DCF-2&show_icons=true&theme=aura&layout=compact" />
   </p>
 </div>
 
