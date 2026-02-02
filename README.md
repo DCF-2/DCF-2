@@ -68,12 +68,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula" alt="Davi Freitas Stats" />
-  </p>
-  <p>
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DCF-2&show_icons=true&theme=aura&layout=compact" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DCF-2&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DCF-2&show_icons=true&theme=aura&layout=compact" />
 </div>
 
 ---
