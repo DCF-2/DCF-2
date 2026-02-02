@@ -57,9 +57,11 @@
 
 ## 📊 My GitHub Stats
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DCF-2&hide_progress=false&theme=highcontrast&hide_border=true&layout=compact)](https://github.com/DCF-2)
+
 <div align="center">
-  <img src="https://github-readme-stats-git-main-dcf-2s-projects.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-main-dcf-2s-projects.vercel.app/api/top-langs?username=DCF-2&layout=compact&langs_count=5&theme=dracula&v=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-main-DCF-2s-projects.vercel.app/api?username=DCF-2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-main-DCF-2s-projects.vercel.app/api/top-langs?username=DCF-2&layout=compact&langs_count=5&theme=dracula&v=5" height="150" alt="languages graph" />
 </div>
 
 ---
